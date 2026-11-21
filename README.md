@@ -1,21 +1,18 @@
 Student Grade Calculator
 
-A Python-based application that calculates students' total marks, percentage, and grades based on their academic performance.
+A Python program that calculates students' total marks, percentage, and final grade based on their academic performance.
 
 Features
-Accepts marks as user input.
+Takes marks as input.
 Calculates total marks and percentage.
-Determines grades based on performance.
-Simple and easy to use.
+Displays the final grade.
 Technologies Used
-Python 
+Python 3
 Concepts Used
-Variables and data types
-User input
-Conditional statements
-Arithmetic operations
+Variables and Data Types
+User Input
+Conditional Statements
+Arithmetic Operations
 Author
 
 Farihah Patel
-
-Developed using Python.
